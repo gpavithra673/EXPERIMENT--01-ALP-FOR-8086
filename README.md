@@ -1,7 +1,5 @@
 # EXPERIMENT--01-ALP-FOR-8086
-#### Name : G.PAVITHRA
-#### Roll no : 212221240036
-#### Date of experiment : 09/09/2022
+#### Name : G.PAVITHRA Roll no : 212221240036 Date of experiment : 09/09/2022
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
