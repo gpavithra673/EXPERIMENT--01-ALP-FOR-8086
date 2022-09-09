@@ -51,8 +51,8 @@ MOV AH,00H;
 HLT;
 ~~~
 ## Output:
-![img1](https://user-images.githubusercontent.com/93427264/189390476-6e31730e-b0c8-420f-8ea2-5e19f5784222.png)
- 
+![img1](https://user-images.githubusercontent.com/93427264/189395367-75da3b0e-5b7f-47c9-99d6-7085ceb5ba1c.png)
+
 ## Subtraction   of 8 bit numbers  ALP:
 ~~~
 name "SUBTRACTION"
@@ -65,7 +65,7 @@ MOV AH,00H;
 HLT;
  ~~~
 ## Output  :
-![img2](https://user-images.githubusercontent.com/93427264/189390588-cb680a3e-3884-4c7c-bc53-334440bfc0ab.png)
+![img2](https://user-images.githubusercontent.com/93427264/189395416-3bbcbd0c-3dcd-455f-a18e-d07ea78cd7c7.png)
 
 ## Multiplication alp :
 ~~~
@@ -79,7 +79,7 @@ MOV AL,00H;
 HLT;
 ~~~
  ## Output  
-![img3](https://user-images.githubusercontent.com/93427264/189390782-c26f6cef-34da-4c40-bc1c-9340736542c9.png)
+![img3](https://user-images.githubusercontent.com/93427264/189395467-aa00657c-2279-4d35-956c-5c3f213e5030.png)
 
 ## Division alp:
 ~~~
@@ -93,7 +93,7 @@ MOV AL,00H;
 HLT;
 ~~~
 ## Output  
-![img4](https://user-images.githubusercontent.com/93427264/189390904-e74f0505-9a31-48b3-9d4f-17b6c00d25bc.png)
+![img4](https://user-images.githubusercontent.com/93427264/189395531-7ec468f6-ed41-4d82-adf1-e9b25fe5c615.png)
 
 ## Result :
 Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
